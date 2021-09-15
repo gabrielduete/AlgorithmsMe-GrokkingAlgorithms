@@ -23,7 +23,8 @@
 
     Exemplos comuns de tempo de execução Big O:
     O(n): O tempo de execução simples ou tempo linear na notação Big O é O(n). [N é o tamanho da lista, ou seja, o número de operações]
-    O(logn): O tempo de execução logáritmica da notação big O é O(log n).
+    O(log n): O tempo de execução logáritmica da notação big O é O(log n).
+    O(n* log n): Algoritmo rápido de ordenação, como a ordenação quicksort.
     O(n^2): Algoritmo lento de ordenação, como a ordenação por seleção.
     O(n!): Algoritmo bastante lento, como o do caixeiro viajante.
 
@@ -37,4 +38,8 @@
     
     A Notação Big O leva em conta a pior das hipóteses.
 
-
+    * A rapidez de um algoritmo não é medida em segundos, mas pelo crescimento do número de operações.
+    * Em vez disso, discutimos sobre o quão rapidamente o tempo de execução de um algortimo aumenta confome 
+      o número de elementos aumenta.
+    * O tempo de execução em algoritmos é expresso na notação big O.
+    * O(log n) é mais rápido que O(n), e O(log n) fica ainda mais rápido conforme a lista aumenta.

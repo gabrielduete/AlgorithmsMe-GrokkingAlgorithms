@@ -1,11 +1,23 @@
--- Capítulo 1:
+-- Capítulo 1 --
 
 Ex. 1 = 
     log 128 = 2^7 -> 2 * 2 * 2 * 2 * 2 * 2 * 2 = [128]
 
     Logo, é necessário no máximo 7 operações para encontrar o valor desejado.
 
-Ex. 2 = 
+Ex. 1.2 = 
     128 * 2 = 256 -> log 256 = 2^8 -> 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = [256]
 
     Logo, é necessário no máximo 8 operações para encontrar o valor desejado.
+
+Ex. 1.3 = 
+    O(log n)
+
+Ex 1.4 =
+    O(n)
+
+Ex 1.5 =
+    O(n)
+
+Ex 1.6 = 
+    O( n * log n)
