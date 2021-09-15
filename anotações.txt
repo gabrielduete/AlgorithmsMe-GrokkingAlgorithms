@@ -1,0 +1,40 @@
+(ANOTAÇÕES QUE ACHEI IMPORTANTE DECORAR)
+
+-- Capítulo 1:
+
+    [Pesquisa Binária]
+
+    Pesquisa Binária: 
+        Você chuta um número intermediário e elimina a metade dos números restantes a cada vez.
+        Se ele encontrar o valor, ele o retorna, se não, ele retorna nulo.
+        
+        OBS1: Elimina metade dos números a cada tentativa.
+        OBS2: A pesquisa binária só funciona se sua lista está ordenada.
+    
+    [Tempo de Execução]
+
+    Tempo de execução linear é quando o número de tentativas é igual ao tamanho da lista.
+    A pesquisa binária é executada com tempo logarítmico.
+
+    [Notação Big O]
+
+    Notação Big O é uma notação especial que diz o quão rápido é um algoritmo.
+    Permite que você compare o número de operações.
+
+    Exemplos comuns de tempo de execução Big O:
+    O(n): O tempo de execução simples ou tempo linear na notação Big O é O(n). [N é o tamanho da lista, ou seja, o número de operações]
+    O(logn): O tempo de execução logáritmica da notação big O é O(log n).
+    O(n^2): Algoritmo lento de ordenação, como a ordenação por seleção.
+    O(n!): Algoritmo bastante lento, como o do caixeiro viajante.
+
+    A notação Big O é escita da seguinte forma:
+
+    "BIG O" -> O(n) <= Número de operações
+
+    Isso fornece o número de operações que um algoritmo realiza.
+    
+    É chamado de notação big O pq coloca-se um "grande O" na frente do número de operações.
+    
+    A Notação Big O leva em conta a pior das hipóteses.
+
+
