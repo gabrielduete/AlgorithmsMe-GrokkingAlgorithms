@@ -1,6 +1,6 @@
 (ANOTAÇÕES QUE ACHEI IMPORTANTE DECORAR)
 
--- Capítulo 1:
+-- Capítulo 1 --
 
     [Pesquisa Binária]
 
@@ -26,7 +26,7 @@
     O(log n): O tempo de execução logáritmica da notação big O é O(log n).
     O(n* log n): Algoritmo rápido de ordenação, como a ordenação quicksort.
     O(n^2): Algoritmo lento de ordenação, como a ordenação por seleção.
-    O(n!): Algoritmo bastante lento, como o do caixeiro viajante.
+    O(n!): Algoritmo bastante lento, como o do caixeiro viajante. É conhecido como tempo fatorial, pois n! é o fatorial de n.
 
     A notação Big O é escita da seguinte forma:
 
@@ -43,3 +43,14 @@
       o número de elementos aumenta.
     * O tempo de execução em algoritmos é expresso na notação big O.
     * O(log n) é mais rápido que O(n), e O(log n) fica ainda mais rápido conforme a lista aumenta.
+
+    FINAL: Se quiser, leia sobre árvores binárias de busca.
+
+    RECAPITULANDO:
+        A pesquisa binária é m uito mais rápida do que a pesquisa simples.
+        O(log n) é mais rápido que O(n), e O(log n) fica ainda mais rápido conforme o elementos da lista aumentam.
+        A rapidez de um algoritmo não é medida em segundos, e sim em quantidade de operações, em outras palavras, por meio do seu crescimento.
+        O tempo de execução dos algoritmos é expresso na notação Big O.
+
+
+-- Capítulo 2 --

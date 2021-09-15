@@ -21,3 +21,6 @@ Ex 1.5 =
 
 Ex 1.6 = 
     O( n * log n)
+
+
+-- Capítulo 2 --
